@@ -1,6 +1,5 @@
 import React from "react";
 import diceArr from "../../constants/diceArrays";
-import diceArray from "../../constants/diceArrays";
 import Die from "../die/Die";
 
 const Dice = () => {

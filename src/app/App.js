@@ -4,7 +4,7 @@ import Dice from "../components/dice/Dice";
 function App() {
   return (
     <div className="App">
-      <p>Whatup suckahs?!</p>
+      <h1>Boggle for Dads!!!</h1>
       <Dice />
     </div>
   );
